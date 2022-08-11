@@ -1,0 +1,26 @@
+table, td, th {  
+    border: 1px solid #ddd;
+    text-align: left;
+    background-color: #A66CFF;
+  }
+  
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  th, td {
+    padding: 15px;
+  }
+  nav{
+    background-color: #9C9EFE;
+  }
+  body{
+    background-color: #B1E1FF;
+  }
+
+
+  table {
+
+    display: none;
+  }
